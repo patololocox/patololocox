@@ -1,5 +1,5 @@
 # Sobre mim
-- 😎 Oi meu nome Patrick
+- 😎 Oi meu nome **Patrick**
 - 📚Estou aprendendo Java script
 - 📸Meu [Istagram](https://www.instagram.com/patrick_gurtlernovo/) 
 - 🏫Eu estudo no Colegio Estadual Marechal Gaspar Dutra
